@@ -1,0 +1,11 @@
+.home-container{
+    min-height: 100vh;
+    padding: 30px 10px;
+    background-color: whitesmoke
+}
+
+.home-container h1{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
